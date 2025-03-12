@@ -1,2 +1,1 @@
-# Limpiar_Modificar_Metadatos_PDF_Python
- Aplicación Python con código fuente para obtener, limpiar y modificar los metadatos de un fichero PDF
+Código fuente en Python de una aplicación de consola completa que permite obtener los metadatos de un fichero PDF (autor, asunto, título, creador, productor, fecha de creación, fecha de modificación, número de páginas) y permite limpiar los metadatos o modificarlos, introduciendo unos personalizados. Más información en: https://proyectoa.com/aplicacion-python-con-codigo-fuente-para-obtener-y-modificar-los-metadatos-de-un-fichero-pdf/
